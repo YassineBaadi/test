@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Copy-Paste Developer",
+    "price": 15,
+    "value": 0.1,
+    "icon": "📋",
+    "description": "Stack Overflow is your best friend"
+  },
+  {
+    "id": 2,
+    "name": "Coffee Machine",
+    "price": 100,
+    "value": 1,
+    "icon": "☕",
+    "description": "Essential for any real programmer"
+  },
+  {
+    "id": 3,
+    "name": "Rubber Duck",
+    "price": 500,
+    "value": 5,
+    "icon": "🦆",
+    "description": "Debug by explaining code to a duck"
+  },
+  {
+    "id": 4,
+    "name": "Git Commit",
+    "price": 1000,
+    "value": 10,
+    "icon": "📝",
+    "description": "Fixed a bug (but created 3 new ones)"
+  },
+  {
+    "id": 5,
+    "name": "Stack Overflow Tab",
+    "price": 2500,
+    "value": 25,
+    "icon": "🌐",
+    "description": "The answer is always on page 2"
+  },
+  {
+    "id": 6,
+    "name": "IDE Autocomplete",
+    "price": 5000,
+    "value": 50,
+    "icon": "⌨️",
+    "description": "IntelliSense knows what you want"
+  },
+  {
+    "id": 7,
+    "name": "Bug Fix",
+    "price": 10000,
+    "value": 100,
+    "icon": "🐛",
+    "description": "It's not a bug, it's a feature"
+  },
+  {
+    "id": 8,
+    "name": "Code Review",
+    "price": 25000,
+    "value": 250,
+    "icon": "👀",
+    "description": "Nitpicking other people's code"
+  },
+  {
+    "id": 9,
+    "name": "Docker Container",
+    "price": 50000,
+    "value": 500,
+    "icon": "🐳",
+    "description": "It works on my machine"
+  },
+  {
+    "id": 10,
+    "name": "Microservice",
+    "price": 100000,
+    "value": 1000,
+    "icon": "🔗",
+    "description": "Because monoliths are so 2010"
+  },
+  {
+    "id": 11,
+    "name": "AI Pair Programmer",
+    "price": 250000,
+    "value": 2500,
+    "icon": "🤖",
+    "description": "Copilot, but it actually helps"
+  },
+  {
+    "id": 12,
+    "name": "Technical Debt",
+    "price": 500000,
+    "value": 5000,
+    "icon": "💸",
+    "description": "Future you's problem"
+  },
+  {
+    "id": 13,
+    "name": "Agile Sprint",
+    "price": 1000000,
+    "value": 10000,
+    "icon": "🏃",
+    "description": "Two weeks to do everything"
+  },
+  {
+    "id": 14,
+    "name": "Blockchain Integration",
+    "price": 2500000,
+    "value": 25000,
+    "icon": "⛓️",
+    "description": "Because why not?"
+  },
+  {
+    "id": 15,
+    "name": "Quantum Computer",
+    "price": 5000000,
+    "value": 50000,
+    "icon": "⚛️",
+    "description": "Computing in multiple universes"
+  },
+  {
+    "id": 16,
+    "name": "Senior Developer",
+    "price": 10000000,
+    "value": 100000,
+    "icon": "👨‍💻",
+    "description": "Finally, someone who knows what they're doing"
+  },
+  {
+    "id": 17,
+    "name": "Architecture Astronaut",
+    "price": 25000000,
+    "value": 250000,
+    "icon": "🚀",
+    "description": "Over-engineering everything"
+  },
+  {
+    "id": 18,
+    "name": "Tech Lead",
+    "price": 50000000,
+    "value": 500000,
+    "icon": "👑",
+    "description": "Meetings about meetings"
+  },
+  {
+    "id": 19,
+    "name": "CTO",
+    "price": 100000000,
+    "value": 1000000,
+    "icon": "🏢",
+    "description": "Chief Buzzword Officer"
+  },
+  {
+    "id": 20,
+    "name": "Unicorn Startup",
+    "price": 250000000,
+    "value": 2500000,
+    "icon": "🦄",
+    "description": "Disrupting the cookie industry"
+  }
+]

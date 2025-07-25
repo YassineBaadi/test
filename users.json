@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "admin",
+    "email": "a@a.a",
+    "password": "123",
+    "description": "",
+    "purchasedGames": [],
+    "isConnected": true,
+    "creditBalance": 340.02
+  },
+  {
+    "id": "1752661271688",
+    "name": "Kamil Baldyga",
+    "email": "baldygakamil@gmail.com",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIIqXIapriwLzJTe7o4wigxVgVJrCFkTSZGO7RZCEjSKHXkew=s96-c",
+    "description": "",
+    "purchasedGames": [],
+    "isConnected": false,
+    "oauthProvider": "google",
+    "creditBalance": 0
+  }
+]
