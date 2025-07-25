@@ -8,7 +8,7 @@ export default function CopyrightDisclaimer() {
       <div className="sm:flex sm:items-center sm:justify-between">
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400 cursor-default">
           © 2025 GameStart™. Projet à but éducatif. Réalisé par{" "}
-          <span className="font-bold text-rosy">Yassine Badi</span>
+          <span className="font-bold text-rosy">Yassine Baadi</span>
         </span>
         <div className="flex mt-4 sm:justify-center sm:mt-0 gap-2">
           <Link href={"https://github.com/YassineBaadi"} target="_blank">
